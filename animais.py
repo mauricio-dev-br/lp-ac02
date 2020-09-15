@@ -240,3 +240,5 @@ class Jacare(Reptil):
 
     def dormir(self):
         return '{} dormindo'.format(self.nome)
+
+Gato = Gato('Teste','Petro',10,'Grande')
